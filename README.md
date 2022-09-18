@@ -11,5 +11,4 @@ This was done in visual studio code and with Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Programiz.com](https://www.programiz.com/python-programming/examples/hello-world)
